@@ -1,0 +1,14 @@
+*.class
+*.log
+*.sc
+
+.bsp
+.idea
+
+target
+params.conf
+project/target
+project/project
+docker/postgres/data
+docker/typedb/data
+logs
